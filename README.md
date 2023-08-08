@@ -2,13 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Halyson+Lourran;I'm+24+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+
+<br>
 
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HalysonLourran&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="Halyson Lourran github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalysonLourran&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HalysonLourran&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="Halyson Lourran github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalysonLourran&layout=compact&hide_border=true&title_color=FFFFFF&text_color=32CD32&bg_color=0d1117" />
 </div>
 
 
