@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Halyson+Lourran;I'm+24+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalysonLourran&theme=ryo&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
+
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HalysonLourran&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="Halyson Lourran github stats" /> 
