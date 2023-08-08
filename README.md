@@ -9,7 +9,7 @@
 
 <br>
 
- ![Snake animation](https://github.com/HalysonLourran/HalysonLourran/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">  
